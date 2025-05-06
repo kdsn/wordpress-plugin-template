@@ -1,0 +1,33 @@
+/* Indstillingssiden layout */
+.wrap h1 {
+    margin-bottom: 1.5rem;
+    color: #0073aa;
+}
+
+/* Inputfelter */
+input[type="text"].regular-text {
+    max-width: 400px;
+}
+
+/* Meddelelser */
+.plugin-name-message {
+    padding: 10px 15px;
+    border-left: 4px solid #0073aa;
+    background-color: #f1f1f1;
+    margin-bottom: 20px;
+}
+
+.plugin-name-message.success {
+    border-color: green;
+    background-color: #e7f7e7;
+}
+
+.plugin-name-message.error {
+    border-color: red;
+    background-color: #fbeaea;
+}
+
+/* Skjulte felter til toggling via JS */
+.plugin-name-hidden {
+    display: none;
+}
