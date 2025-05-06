@@ -1,0 +1,47 @@
+/* Container til shortcode output */
+.plugin-name-box {
+    border: 1px solid #ccc;
+    background: #f9f9f9;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 5px;
+}
+
+/* Overskrift */
+.plugin-name-box h3 {
+    margin-top: 0;
+    color: #0073aa;
+}
+
+/* Besked-udseende */
+.plugin-name-message {
+    padding: 12px;
+    margin: 10px 0;
+    border-left: 4px solid #0073aa;
+    background-color: #f1f1f1;
+}
+
+.plugin-name-message.success {
+    border-color: green;
+    background-color: #e6fbe6;
+}
+
+.plugin-name-message.error {
+    border-color: red;
+    background-color: #fbeaea;
+}
+
+/* Knapper */
+.plugin-name-button {
+    display: inline-block;
+    background-color: #0073aa;
+    color: #fff;
+    padding: 10px 15px;
+    border-radius: 3px;
+    text-decoration: none;
+    transition: background 0.3s ease;
+}
+
+.plugin-name-button:hover {
+    background-color: #005f8d;
+}
