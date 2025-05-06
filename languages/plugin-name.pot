@@ -1,0 +1,17 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Plugin Name 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Language: \n"
+
+#: public/class-plugin-name-public.php:23
+msgid "API Key"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:45
+msgid "Plugin Name Settings"
+msgstr ""
+
+#: admin/class-plugin-name-admin.php:70
+msgid "Save Changes"
+msgstr ""
